@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+button{
+    padding: 5px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(233, 233, 233);
+    padding: 50px;
+    padding-top: 10px;
+    box-shadow: 0px 0px 40px rgb(128, 128, 128);
+    border-radius: 2%;
+}
